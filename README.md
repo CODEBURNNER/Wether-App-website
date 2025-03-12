@@ -1,6 +1,24 @@
-**# Wether-App-website**
+# 🌤️ Weather App (Project 4)
 
-Here is the weather website created by Adanan Kasif
-Project Name: Weather App
+🚀 **Live Demo**: [Check it out on Vercel](https://dist-p9xqgcim3-sak-s-projects.vercel.app)
 
-Description: The Weather App is a web application designed to provide real-time weather information based on user input. Developed using HTML, CSS, and JavaScript, this project showcases my proficiency in frontend web development and integration with third-party APIs.
+## 📌 Project Overview
+
+This is a **Weather App** built using **Vite, Tailwind CSS, and TypeScript**. It allows users to search for a city and get real-time weather data.
+
+## ✨ Features
+
+✅ Search for any city 🌍  
+✅ Displays **temperature, weather conditions, and wind speed** 💨  
+✅ **Responsive design** (works on all devices) 📱💻  
+✅ **Fast performance** with Vite 🚀  
+✅ Hosted on **Vercel** for free!
+
+---
+
+## 🛠️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/CODEBURNNER/Wether-website.git
+cd Wether-website
