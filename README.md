@@ -1,6 +1,6 @@
 # 🌤️ Weather App (Project 4)
 
-🚀 **Live Demo**: [Check it out on Vercel](https://dist-p9xqgcim3-sak-s-projects.vercel.app)
+🚀 **Live Demo**: [Check it out on netlify](https://wether-app-sak.netlify.app/)
 
 ## 📌 Project Overview
 
